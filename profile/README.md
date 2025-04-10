@@ -15,3 +15,5 @@ Silly!
 `no` - geodebreaker
 
 `aw man` - tomcat
+
+`uwu` - zastix
