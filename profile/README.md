@@ -8,7 +8,7 @@ You can see some of those silly projects at [our website.](https://nyabyte.dev/)
 
 Silly!
 
-## Comments (Temporary)
+## Comments
 
 `please rewrite later` - tomcat
 
@@ -17,3 +17,5 @@ Silly!
 `aw man` - tomcat
 
 `uwu` - zastix
+
+`owo` - tomcat
