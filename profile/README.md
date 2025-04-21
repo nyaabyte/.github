@@ -19,3 +19,5 @@ Silly!
 `uwu` - zastix
 
 `owo` - tomcat
+
+`hi :3` - wurdle
