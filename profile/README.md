@@ -1,4 +1,4 @@
-# NyaByte
+;# NyaByte
 
 We are a silly coding group of silly people!
 
@@ -21,3 +21,5 @@ Silly!
 `owo` - tomcat
 
 `hi :3` - wurdle
+
+`>w< i siwwy` - dotle
