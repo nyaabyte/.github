@@ -1,4 +1,4 @@
-;# NyaByte
+# NyaByte
 
 We are a silly coding group of silly people!
 
