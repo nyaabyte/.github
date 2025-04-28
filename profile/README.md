@@ -23,3 +23,5 @@ Silly!
 `hi :3` - wurdle
 
 `>w< i siwwy` - dotle
+
+`hewwo` - geodebreaker
