@@ -25,3 +25,5 @@ Silly!
 `>w< i siwwy` - dotle
 
 `hewwo` - geodebreaker
+
+`git chatroom goes hard` - geodebreaker
