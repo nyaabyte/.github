@@ -20,8 +20,6 @@ Silly!
 
 `owo` - tomcat
 
-`hi :3` - wurdle
-
 `>w< i siwwy` - dotle
 
 `hewwo` - geodebreaker
