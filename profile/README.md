@@ -27,3 +27,5 @@ Silly!
 `git chatroom goes hard` - geodebreaker
 
 `lmfao` - tomcat
+
+`yall r so gay` - zastix
