@@ -12,8 +12,6 @@ Silly!
 
 `please rewrite later` - tomcat
 
-`no` - geodebreaker
-
 `aw man` - tomcat
 
 `uwu` - zastix
@@ -21,10 +19,6 @@ Silly!
 `owo` - tomcat
 
 `>w< i siwwy` - dotle
-
-`hewwo` - geodebreaker
-
-`git chatroom goes hard` - geodebreaker
 
 `lmfao` - tomcat
 
